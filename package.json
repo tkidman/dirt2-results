@@ -28,7 +28,7 @@
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
     "googleapis": "^51.0.0",
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "jsdom": "^16.2.0",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
