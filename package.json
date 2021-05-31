@@ -30,7 +30,7 @@
     "googleapis": "^51.0.0",
     "handlebars": "^4.7.6",
     "jsdom": "^16.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "node-html-to-image": "^3.0.0",
     "papaparse": "^5.1.1",
